@@ -1,30 +1,34 @@
 ---
 layout: post
-title:  "Dairy Free Pancakes"
+title:  "Swedish Glögg"
 date:   2024-02-04 11:22:31 -0500
 categories: family
 ---
-This is a solid chili I landed on after trying many. It will fill 2/3 of a Crock Pot, so plenty to go around.
+A swedish spin on mulled wine. A staple in the Stenquist holidays.
 
 **Ingredients**
 
-* 3 cup all-purpose flour
-* 2 tablespoon sugar
-* 2 tablespoon baking powder
-* 1 teaspoon salt
-* 2 1/2 cup almond or coconut milk*
-* 6 tablespoon canola oil
-* 2 egg
-* 2 teaspoon vanilla extract
+* 3 handfuls of raisins
+* 9 almonds, cut in half
+* 12 cloves
+* 9 cardamom seeds, broken up
+* 4 cinnamon sticks
+* 1/2 orange or pomegranate peel, cut into 1/4" slices
+* 1 1/2 cups sugar
+* 2 cups water
+* 10 pieces of dried or candied citron
+* 1 pint port wine 
+* 1 quart of whiskey (usually Candadian Club/Mist or similar)
 
 **Instructions**
 
-1. In a large bowl, whisk together the dry ingredients.
-2. Add milk, canola oil, egg and vanilla extract. Whisk until smooth.
-3. Preheat a non-stick griddle or large skillet to medium heat. (Coat pan with butter or oil if not using non-stick).
-4. Pour about ⅓ cup batter onto the griddle for each pancake. Allow it to cook until bubbles are visible throughout the pancake before flipping.
-5. Repeat until all batter has been used.
+1. Add all ingredients EXCEPT the wine and whiskey to a pot
+2. Stir to ensure sugar is mixed into water
+3. Bring to a boil and simmer for 5 minutes
+4. Strain using a cheese cloth
+5. Let cool
+6. Enjoy with family and friends. Skål!
 
-Check out the [Original Recipe][original-recipe].
+**Notes**
 
-[original-recipe]: https://www.simplywhisked.com/extra-fluffy-dairy-free-pancakes/#tasty-recipes-16205-jump-target
+We like to call the strained out leftovers the "Garbage". It should be used in bread or other recipes. Don't let it go to waste!
