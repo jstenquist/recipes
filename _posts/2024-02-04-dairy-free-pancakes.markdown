@@ -4,7 +4,8 @@ title:  "Dairy Free Pancakes"
 date:   2024-02-04 11:22:31 -0500
 categories: breakfast
 ---
-This is a solid chili I landed on after trying many. It will fill 2/3 of a Crock Pot, so plenty to go around.
+
+Great panckakes.
 
 **Ingredients**
 
@@ -24,6 +25,10 @@ This is a solid chili I landed on after trying many. It will fill 2/3 of a Crock
 3. Preheat a non-stick griddle or large skillet to medium heat. (Coat pan with butter or oil if not using non-stick).
 4. Pour about ⅓ cup batter onto the griddle for each pancake. Allow it to cook until bubbles are visible throughout the pancake before flipping.
 5. Repeat until all batter has been used.
+
+**Notes**
+
+I like to add chocolate chips to ours, because why not.
 
 Check out the [Original Recipe][original-recipe].
 
