@@ -14,7 +14,7 @@ Yields 8 english muffins.
 **Ingredients**
 
 * 2 3/4 cups ounces all-purpose flour
-* 1 1/2 ounces nonfat dry milk
+* 6 tablespoons nonfat dry milk
 * 1 tablespoon sugar
 * 1 envelope active dry yeast
 * 1 teaspoon kosher salt
