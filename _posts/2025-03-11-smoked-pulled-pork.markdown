@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Smoked Pulled Pork"
-date:   2024-02-12 11:22:31 -0500
+date:   2025-03-11 11:22:31 -0500
 categories: bbq
 ---
 
