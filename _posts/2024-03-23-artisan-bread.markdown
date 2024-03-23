@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Crusty Artisan Breadd"
+title:  "Crusty Artisan Bread"
 date:   2024-03-23 12:11:56 -0500
 categories: baking, bread
 ---
