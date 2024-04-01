@@ -44,3 +44,8 @@ Real tasty beef jerky.
 * I tripled this recipe last time since I had 6 lbs of steak. Might as well make a lot since it goes fast!
 
 * If you are dehydrating on the smoker, omit the Liquid Smoke, or use less.
+
+Check out the [Original Recipe][original-recipe].
+
+[original-recipe]: https://www.allrecipes.com/recipe/142948/docs-best-beef-jerky/
+
