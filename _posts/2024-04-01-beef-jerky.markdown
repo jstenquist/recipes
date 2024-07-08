@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Beef Jery"
+title:  "Beef Jerky (Crowd Pleaser)"
 date:   2024-04-01 13:36:21 -0500
 categories: meat
 ---
