@@ -25,11 +25,14 @@ Ball jars
 
 * 6 cloves of garlic
 
+* jar of pickle crisp
+
 **Instructions**
 
-1. Mix everything but garlic and dill in mixing bowl with whisk.
-2. Pack 3 pint jars with cut cucumbers. I slice them into 6 pieces.
-3. Add garlic and dill to the jars.
-4. Cover with lid.
-5. Put in refrigerator for 10 days.
-6. Enjoy
+1. Whisk vinegar, water, salt and sugar in a mixing bowl until dissolved
+2. Pack 3 pint jars with cut cucumbers. I slice them into 6 pieces
+3. Add garlic and dill to the jars
+4. Add 1/8 tsp of pickle crisp to each jar
+5. Fill to the top with the mixed vinegar solution. 
+6. Put in refrigerator for 10 days
+7. Enjoy
