@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dirty Cabbage"
-date:   2026-09-18 14:30:00 -0400
+date:   2026-09-18 14:30:00 -0500
 categories: dinner
 ---
 
